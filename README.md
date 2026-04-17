@@ -27,27 +27,30 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 ```bash
 git clone [https://github.com/YourUsername/HerVenture.git](https://github.com/YourUsername/HerVenture.git)
 cd HerVenture
- 2. Backend Setup
+```
+
+### 2. Backend Setup
 Open a terminal and navigate to the backend directory:
 ```bash
 cd backend
 npm install
 node index.js
-(The backend server will start running, usually on port 5000 or 3001)
+```
+*(The backend server will start running, usually on port 5000 or 3001)*
 
-3. Frontend Setup
-Open a new terminal and navigate to the frontend directory:
-
+### 3. Frontend Setup
+Open a **new** terminal and navigate to the frontend directory:
 ```bash
 cd frontend
 npm install
 npm start
-(The React app will launch automatically in your browser at http://localhost:3000)
-👩‍💻 Developed By
-Information Technology (Semester IV) - SIES GST
+```
+*(The React app will launch automatically in your browser at http://localhost:3000)*
 
-Vaibhavi Manohar Bam
+---
 
-Arul Malar Dhinagaran
-
-Bhavika Shivkumar
+## 👩‍💻 Developed By
+**Information Technology (Semester IV) - SIES GST**
+- Vaibhavi Manohar Bam
+- Arul Malar Dhinagaran
+- Bhavika Shivkumar
